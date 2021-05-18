@@ -1,3 +1,3 @@
 # hello-world
 
-hello world, my names is Thomas the Tank Engine.
+hello world, my name is Thomas the Tank Engine.
